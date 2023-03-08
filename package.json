@@ -1,0 +1,17 @@
+{
+  "name": "GoodPracticalProgrammingmacro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll div.test.js board.test.js sum.test.js",
+    "tes1t": "jest --verbose --watchAll  board.test.js "
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

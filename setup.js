@@ -1,0 +1,1 @@
+global.testVar = 'test value';
